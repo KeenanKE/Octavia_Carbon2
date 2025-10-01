@@ -26,7 +26,7 @@ Instead of Siemens PLCs, this system integrates with **OpenPLC** for ladder logi
 - **Decoupling**: 0.1µF caps near ICs, bulk caps per rail.  
 
 📐 Schematics provided in `/schematics` (KiCad).  
-
+See relay PLC circuit here https://app.plcsimulator.online/ffFacnrGDEjEDezODMFK
 ---
 
 ## 💻 Firmware Design
